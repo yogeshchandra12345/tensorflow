@@ -1,2 +1,3 @@
 # Tensorflow
-A basic implementation of vaious ml challenges in tensroflow referenced from tensorflow.org.
+A basic implementation of vaious ml challenges in tensorflow 
+* reference tensorflow.org.
