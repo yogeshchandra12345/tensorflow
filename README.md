@@ -1,3 +1,5 @@
 # Tensorflow
-A basic implementation of vaious ml challenges in tensorflow 
-* reference tensorflow.org.
+A basic implementation of vaious ml, deeep-learing techniques in tensorflow
+* reference tensorflow.org
+* Machine learning Mastery.
+* Coursera.
